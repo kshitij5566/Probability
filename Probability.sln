@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingProblem", "CountingProblem\CountingProblem.csproj", "{72A16B4E-6E72-48E0-BA0B-04D7C4F955E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProgram", "TestProgram\TestProgram.csproj", "{B486E7D1-7010-4EF5-BAF2-CA52A872AB3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A16B4E-6E72-48E0-BA0B-04D7C4F955E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A16B4E-6E72-48E0-BA0B-04D7C4F955E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A16B4E-6E72-48E0-BA0B-04D7C4F955E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A16B4E-6E72-48E0-BA0B-04D7C4F955E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B486E7D1-7010-4EF5-BAF2-CA52A872AB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B486E7D1-7010-4EF5-BAF2-CA52A872AB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B486E7D1-7010-4EF5-BAF2-CA52A872AB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B486E7D1-7010-4EF5-BAF2-CA52A872AB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31EFD5E8-4A42-43F0-AC20-B406F30C1F89}
+	EndGlobalSection
+EndGlobal
